@@ -87,6 +87,6 @@ python app.py
   * Check that the path in app.py (pytesseract.pytesseract.tesseract\_cmd) exactly matches your installation location.  
 * **"Connection Failed":**  
   * Ensure the Python terminal is open and app.py is running.  
-  * Check if the server is running on port 5000\.
+  * Check if the server is running on port 5000\..
 
 *Made with ❤️ for Kannada Literature*
